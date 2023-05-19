@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "245080214158",
+    "project_id": "aleksanya-invest-37f8d",
+    "storage_bucket": "aleksanya-invest-37f8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245080214158:android:bd3a62b3ab95a5d49ed7df",
+        "android_client_info": {
+          "package_name": "com.example.ai_club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245080214158-sjhg7433ke3rt7e5n40p1ddbu29d9917.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKbYmFHPlB-_ZEyBAjuPoQrDkNFWRLGFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245080214158-sjhg7433ke3rt7e5n40p1ddbu29d9917.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245080214158:android:d3fd6d082af116429ed7df",
+        "android_client_info": {
+          "package_name": "com.example.aleksanya_invest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245080214158-sjhg7433ke3rt7e5n40p1ddbu29d9917.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKbYmFHPlB-_ZEyBAjuPoQrDkNFWRLGFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245080214158-sjhg7433ke3rt7e5n40p1ddbu29d9917.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

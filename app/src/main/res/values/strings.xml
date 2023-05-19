@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aleksanya_Invest</string>
+    <string name="app_lable">AI Club</string>
+    <string name="sign_up_hello">Приветствую!</string>
+    <string name="sign_up_hello_2">Инвестор AI Club</string>
+    <string name="login_hello">С возвращением!</string>
+    <string name="create_account">Создать учетную запись</string>
+    <string name="Email_Id">введите Email</string>
+    <string name="Password_add">Создайте пароль</string>
+    <string name="Password_in">Введите пароль</string>
+    <string name="Confirm_Password">Повторите пароль</string>
+    <string name="already">У вас уже есть учетная запись?</string>
+    <string name="Login">Войти</string>
+    <string name="not_account">У вас отсутствует учетная запись?</string>
+    <string name="create_akk">Создать учетную запись</string>
+    <string name="exitt">Нажмите еще раз!</string>
+</resources>

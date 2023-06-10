@@ -68,20 +68,20 @@ def raises(func, error):
 def test():
     o = main()
     assert o.bend() == 0
-	assert o.bend() == 1
-	assert o.debug() == 3
-	assert o.bend() == 6
-	assert o.bend() == 1
-	assert o.chain() == 4
-	assert o.debug() == 7
-	assert o.debug() == 9
-	assert o.debug() == 5
-	assert o.debug() == 7
-	assert o.bend() == 10
-	assert o.bend() == 0
-	assert o.debug() == 2
-	assert o.chain() == 8
-	assert o.bend() == 11
+    assert o.bend() == 1
+    assert o.debug() == 3
+    assert o.bend() == 6
+    assert o.bend() == 1
+    assert o.chain() == 4
+    assert o.debug() == 7
+    assert o.debug() == 9
+    assert o.debug() == 5
+    assert o.debug() == 7
+    assert o.bend() == 10
+    assert o.bend() == 0
+    assert o.debug() == 2
+    assert o.chain() == 8
+    assert o.bend() == 11
     raises(lambda: o.stand(), MealyError)
     raises(lambda: o.punch(), MealyError)
     raises(lambda: o.spin(), MealyError)
